@@ -1,0 +1,14 @@
+D:\dotnet\counter\counter\bin\Debug\net8.0\counter.exe
+D:\dotnet\counter\counter\bin\Debug\net8.0\counter.deps.json
+D:\dotnet\counter\counter\bin\Debug\net8.0\counter.runtimeconfig.json
+D:\dotnet\counter\counter\bin\Debug\net8.0\counter.dll
+D:\dotnet\counter\counter\bin\Debug\net8.0\counter.pdb
+D:\dotnet\counter\counter\obj\Debug\net8.0\counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\counter\counter\obj\Debug\net8.0\counter.AssemblyInfoInputs.cache
+D:\dotnet\counter\counter\obj\Debug\net8.0\counter.AssemblyInfo.cs
+D:\dotnet\counter\counter\obj\Debug\net8.0\counter.csproj.CoreCompileInputs.cache
+D:\dotnet\counter\counter\obj\Debug\net8.0\counter.dll
+D:\dotnet\counter\counter\obj\Debug\net8.0\refint\counter.dll
+D:\dotnet\counter\counter\obj\Debug\net8.0\counter.pdb
+D:\dotnet\counter\counter\obj\Debug\net8.0\counter.genruntimeconfig.cache
+D:\dotnet\counter\counter\obj\Debug\net8.0\ref\counter.dll
