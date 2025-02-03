@@ -12,3 +12,4 @@ D:\dotnet\counter\counter\obj\Debug\net8.0\refint\counter.dll
 D:\dotnet\counter\counter\obj\Debug\net8.0\counter.pdb
 D:\dotnet\counter\counter\obj\Debug\net8.0\counter.genruntimeconfig.cache
 D:\dotnet\counter\counter\obj\Debug\net8.0\ref\counter.dll
+D:\dotnet\counter\counter\obj\Debug\net8.0\counter.sourcelink.json
